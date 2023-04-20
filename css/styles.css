@@ -1,0 +1,37 @@
+.banner {
+  max-width: 100%;
+  height: auto;
+}
+
+.acitve {
+  color: black;
+  text-decoration: overline;
+}
+
+.header1{
+  text-align: center;
+  color: gray;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.container{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+#Map{
+  height: 700px;
+}
+
+.footer{
+  margin-top: 5px;
+  padding: 20px;
+  background-color: #2F4F4F;
+  color: white;
+}
+
+.navbar{
+  background-color: #F0F8FF;
+  padding: 10px;
+}
